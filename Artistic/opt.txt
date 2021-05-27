@@ -1,0 +1,13 @@
+----------------- Options ---------------
+                batchSize: 1                             
+              contentPath: data/content/                 
+                     cuda: False                         
+              decoder_dir: C:/Archive/data/models/LinearStyleTransfer/models/dec_r41.pth
+                 fineSize: 256                           
+                    layer: r41                           
+                 loadSize: 256                           
+               matrixPath: C:/Archive/data/models/LinearStyleTransfer/models/r41.pth
+                     outf: Artistic/                     
+                stylePath: data/style/                   
+                  vgg_dir: C:/Archive/data/models/LinearStyleTransfer/models/vgg_r41.pth
+----------------- End -------------------
